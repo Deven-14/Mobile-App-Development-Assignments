@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.assignments">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Assignments">
+        <activity
+            android:name=".Notes.Toast.CustomToastActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.Spinner.SpinnerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.listView.CustomViewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.AutoCompleteTextView.AutoCompleteTextViewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.listView.ListView2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.listView.ListView1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.NotesMainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment4.Assignment4Q3Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment4.Assignment4Q2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment4.Assignment4Q1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment4.Assignment4Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.listView.ListViewActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment3.Assignment3Q8Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment3.Assignment3Q7Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment3.Assignment3Q6Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment3.Assignment3Q5Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment3.Assignment3Q4Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment3.Assignment3Q3Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment3.Assignment3Q2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment3.Assignment3Q1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment3.Assignment3Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment2.Assignment2Q3Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment2.Assignment2Q2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment2.Assignment2Q1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment2.Assignment2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Assignment1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

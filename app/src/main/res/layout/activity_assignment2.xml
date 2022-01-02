@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Assignment2.Assignment2Activity"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center" >
+    <!--    android:gravity handles the alignment of its children,-->
+    <!--    android:layout_gravity handles the alignment of itself(i.e the whole layout is brought down to center).-->
+
+    <Button
+        android:id="@+id/btnQ1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Part1" />
+
+    <Button
+        android:id="@+id/btnQ2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Part2" />
+
+    <Button
+        android:id="@+id/btnQ3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Part3" />
+
+</LinearLayout>

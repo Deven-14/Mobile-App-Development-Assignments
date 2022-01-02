@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/countryFlagImg"
+        android:src="@drawable/ic_baseline_check_box_24"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Country: "
+            android:textSize="20sp"
+            android:layout_marginTop="20dp"
+            android:id="@+id/countryNameTxt"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Currency: "
+            android:textSize="15sp"
+            android:layout_marginTop="15dp"
+            android:id="@+id/countryCurrencyTxt"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

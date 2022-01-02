@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/purple_700"
+        android:fontFamily="@font/aclonica"
+        android:padding="10dp"
+        android:text="@string/txtHello"
+        android:textColor="@color/teal_700"
+        android:textSize="25dp"
+        android:textStyle="bold|italic"
+        android:layout_margin="40dp"/>
+
+    <Button
+        android:id="@+id/notes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Notes" />
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:useDefaultMargins="true" >
+<!--useDefaultMargins to add margins to all items
+    layout_width="wrap_content" important to make items centered coz linear layout is centered-->
+
+        <Button
+            android:id="@+id/assignment1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Assignment1" />
+
+        <Button
+            android:id="@+id/assignment2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Assignment2" />
+
+        <Button
+            android:id="@+id/assignment3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Assignment3" />
+
+        <Button
+            android:id="@+id/assignment4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Assignment4" />
+
+    </GridLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Assignment4.Assignment4Q1Activity"
+    android:orientation="vertical"
+    android:padding="30dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rate This Lesson"
+        android:textSize="30sp"
+        android:layout_gravity="center"/>
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rateLessonRadioGrp"
+        android:orientation="horizontal" >
+        
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="EXCELLENT"
+            android:id="@+id/excellentRadioBtn"
+            android:button="@drawable/custom_radio_btn"
+            android:textSize="17sp"
+            android:checked="true" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GOOD"
+            android:id="@+id/goodRadioBtn"
+            android:button="@drawable/custom_radio_btn"
+            android:textSize="17sp"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OKAY"
+            android:id="@+id/okayRadioBtn"
+            android:button="@drawable/custom_radio_btn"
+            android:textSize="17sp"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="POOR"
+            android:id="@+id/poorRadioBtn"
+            android:button="@drawable/custom_radio_btn"
+            android:textSize="17sp"/>
+        
+    </RadioGroup>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Give Your Few Suggestions Here."
+        android:textSize="25sp"
+        android:layout_gravity="center"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I really enjoy this lesson"
+        android:textSize="17sp"
+        android:id="@+id/suggestion1CheckBox"
+        android:button="@drawable/custom_check_box" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I will prefer this lesson to else also"
+        android:textSize="17sp"
+        android:id="@+id/suggestion2CheckBox"
+        android:button="@drawable/custom_check_box"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I would like to hear more from you"
+        android:textSize="17sp"
+        android:id="@+id/suggestion3CheckBox"
+        android:button="@drawable/custom_check_box"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I am satisfied with the content and full description"
+        android:textSize="17sp"
+        android:id="@+id/suggestion4CheckBox"
+        android:button="@drawable/custom_check_box"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/assignment4Q1SubmitBtn"
+        android:layout_gravity="center"
+        android:text="Submit"/>
+
+</LinearLayout>

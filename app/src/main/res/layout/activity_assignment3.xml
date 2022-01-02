@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Assignment3.Assignment3Activity"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:layout_margin="50dp"
+    android:padding="50dp" >
+    <!--    android:columnCount="2"-->
+    <!--    android:useDefaultMargins="true"-->
+    <!--    android:layout_gravity="center" >-->
+    <!--    columnWeight is for GridLayout-->
+    <!--    android:layout_columnWeight="1" add this to all buttons -->
+
+    <Button
+        android:id="@+id/btnQ1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question1" />
+
+    <Button
+        android:id="@+id/btnQ2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question2" />
+
+    <Button
+        android:id="@+id/btnQ3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question3" />
+
+    <Button
+        android:id="@+id/btnQ4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question4" />
+
+    <Button
+        android:id="@+id/btnQ5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question5" />
+
+    <Button
+        android:id="@+id/btnQ6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question6" />
+
+    <Button
+        android:id="@+id/btnQ7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question7" />
+
+    <Button
+        android:id="@+id/btnQ8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question8" />
+
+</LinearLayout>
