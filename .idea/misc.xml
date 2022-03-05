@@ -12,37 +12,55 @@
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/drawable/ic_smiling_face_24.xml" value="0.26205128205128203" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/drawable/radio_button_checked.xml" value="0.26205128205128203" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/drawable/smiling_face_radio_btn.xml" value="0.26205128205128203" />
-        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment1.xml" value="0.25" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_android_life_cycle.xml" value="0.2359375" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment1.xml" value="0.264" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment2.xml" value="0.25" />
-        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment2_q1.xml" value="0.1" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment2_q1.xml" value="0.264" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment2_q2.xml" value="0.25" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment2_q3.xml" value="0.264" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment3.xml" value="0.25" />
-        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment3_q1.xml" value="0.14728682170542637" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment3_q1.xml" value="0.264" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment3_q2.xml" value="0.1450381679389313" />
-        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment3_q3.xml" value="0.13768115942028986" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment3_q3.xml" value="0.264" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment3_q4.xml" value="0.20212765957446807" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment3_q5.xml" value="0.234375" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment3_q6.xml" value="0.25" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment3_q7.xml" value="0.25" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment3_q8.xml" value="0.264" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment4.xml" value="0.25" />
-        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment4_q1.xml" value="0.1" />
-        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment4_q2.xml" value="0.1" />
-        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment4_q3.xml" value="0.1" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment4_q1.xml" value="0.264" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment4_q2.xml" value="0.264" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_assignment4_q3.xml" value="0.264" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_auto_complete_text_view.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_context_menu.xml" value="0.25" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_custom_toast.xml" value="0.2427536231884058" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_custom_view.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_explicit_intent.xml" value="0.2359375" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_fragment_life_cycle.xml" value="0.25" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_fragment_q1.xml" value="0.2359375" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_fragment_q1_f1.xml" value="0.25" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_fragment_q1_f2.xml" value="0.2359375" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_fragment_q2.xml" value="0.2359375" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_implicit_intent.xml" value="0.25" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_list_view.xml" value="0.25" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_list_view1.xml" value="0.2427536231884058" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_list_view2.xml" value="0.2427536231884058" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_list_view2_item.xml" value="0.12708333333333333" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_notes_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_options_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_popup_menu.xml" value="0.2359375" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_shared_preferences.xml" value="0.25" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/activity_spinner.xml" value="0.2427536231884058" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/custom_toast_item.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/fragment_life_cycle.xml" value="0.25" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/fragment_q2_f1.xml" value="0.25" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/fragment_q2_f2.xml" value="0.25" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/list_view1_item.xml" value="0.264" />
         <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/layout/list_view2_item.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/menu/context_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/menu/options_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Deven/AndroidStudioProjects/Assignments/app/src/main/res/menu/popup_menu.xml" value="0.25" />
       </map>
     </option>
   </component>

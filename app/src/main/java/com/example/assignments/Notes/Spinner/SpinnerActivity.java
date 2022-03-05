@@ -28,8 +28,9 @@ public class SpinnerActivity extends AppCompatActivity implements AdapterView.On
         setContentView(R.layout.activity_spinner);
 
         spinner = findViewById(R.id.spinner);
+        spinner.setOnItemSelectedListener(this);
         ArrayAdapter<String> citiesAdapter = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item, cities);
-        citiesAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item); // ***
+        citiesAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item); // *************
 
         spinner.setAdapter(citiesAdapter);
     }

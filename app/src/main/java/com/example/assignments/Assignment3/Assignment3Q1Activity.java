@@ -33,4 +33,5 @@ public class Assignment3Q1Activity extends AppCompatActivity implements View.OnC
         Toast.makeText(this, greeting, Toast.LENGTH_SHORT).show();
         txtHelloName.setText(greeting);
     }
+
 }

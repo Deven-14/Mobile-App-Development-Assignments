@@ -17,6 +17,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Row1" />
+
     </TableRow>
 
     <TableRow
@@ -38,6 +39,7 @@
             android:layout_span="2"
             android:layout_weight="2"
             android:text="Row2\nCol2" />
+
     </TableRow>
 
     <TableRow
@@ -78,5 +80,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Row4" />
+
     </TableRow>
+
 </TableLayout>

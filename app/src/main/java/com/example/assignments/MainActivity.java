@@ -11,7 +11,18 @@ import android.widget.Toast;
 import com.example.assignments.Assignment2.Assignment2Activity;
 import com.example.assignments.Assignment3.Assignment3Activity;
 import com.example.assignments.Assignment4.Assignment4Activity;
+import com.example.assignments.Notes.AndroidActivityLifeCycleActivity;
+import com.example.assignments.Notes.Fragment.FragmentLifeCycleActivity;
+import com.example.assignments.Notes.Fragment.FragmentQ1Activity;
+import com.example.assignments.Notes.Fragment.FragmentQ2Activity;
+import com.example.assignments.Notes.Intent.ExplicitIntentActivity;
+import com.example.assignments.Notes.Intent.ImplicitIntentActivity;
+import com.example.assignments.Notes.Menu.ContextMenuActivity;
+import com.example.assignments.Notes.Menu.OptionsMenuActivity;
+import com.example.assignments.Notes.Menu.PopupMenuActivity;
 import com.example.assignments.Notes.NotesMainActivity;
+import com.example.assignments.Notes.SharedPreferences.SharedPreferencesActivity;
+import com.example.assignments.Notes.Spinner.SpinnerActivity;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
@@ -54,7 +65,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 intent = new Intent(this, Assignment4Activity.class);
                 break;
             case R.id.notes:
-                intent = new Intent(this, NotesMainActivity.class);
+                intent = new Intent(this, SpinnerActivity.class);
                 break;
             default:
                 Toast.makeText(this, "Button onClick Missing", Toast.LENGTH_SHORT).show();

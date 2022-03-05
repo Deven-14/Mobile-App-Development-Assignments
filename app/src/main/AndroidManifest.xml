@@ -10,6 +10,42 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Assignments">
         <activity
+            android:name=".Notes.AndroidActivityLifeCycleActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.SharedPreferences.SharedPreferencesActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.Fragment.FragmentLifeCycleActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.Fragment.FragmentQ2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.Fragment.FragmentQ1F2"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.Fragment.FragmentQ1F1"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.Fragment.FragmentQ1Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.Menu.PopupMenuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.Menu.ContextMenuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.Menu.OptionsMenuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.Intent.ExplicitIntentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Notes.Intent.ImplicitIntentActivity"
+            android:exported="true" />
+        <activity
             android:name=".Notes.Toast.CustomToastActivity"
             android:exported="true" />
         <activity
